@@ -1,16 +1,106 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Amir Shahin</h1>
+<p align="center">
+  A self-taught <strong>Front-End Developer</strong> from Cairo, Egypt 🇪🇬<br/>
+  Passionate about building clean, responsive UIs with React.js, Next.js, and a bit of flair ⚡
+</p>
 
-<!--
-**amirShahin-7/amirShahin-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://amir-shahin.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Amir%20Shahin-blue?style=flat-square&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/amir-shahin-7ala80360/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amir%20Shahin-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/amirShahin-7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-amirShahin--7-333?style=flat-square&logo=github" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+- 🎓 Front-End Developer, started my journey in 2024.
+- 💻 Mostly working with **React.js**, **Next.js**, **Redux Toolkit**, and **Tailwind CSS**.
+- 📡 Big fan of clean UI, responsive layouts, and smooth user experience.
+- 🎯 Currently improving my TypeScript skills and exploring Next.js Server Actions.
+- 🧠 Self-taught, with 13 years of experience in hospitality—so client communication? I'm good at it 😉
+
+---
+
+## 👨‍💻 Projects I'm Proud Of
+
+### 🛒 [E-commerce Orders Management](https://amir-shahin.vercel.app/)
+A modern e-commerce platform built with Next.js, featuring:
+
+- Unified experience using **OneEntry**
+- Dynamic **profile page** with real-time stats
+- **Order management system**
+- Stripe integration and full API-driven data handling
+
+Tech Used: `Next.js`, `React.js`, `Tailwind CSS`, `Lucide Icons`, `OneEntry`, `shadcn`, `Stripe`, `API Integration`
+
+### 🎬 [Movie Show](https://movie-show-blond.vercel.app/)
+A streaming platform using TMDB API built with a teammate on GitHub. Highlights:
+
+- Uses **Redux Toolkit** for global state
+- Supports **pagination**, **trailers**, and **cast pages**
+- Fully responsive and deployed on **Vercel**
+- Worked collaboratively using pull requests, branches & GitHub issues
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />&nbsp;
+  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />&nbsp;
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />&nbsp;
+  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" />&nbsp;
+  <img title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />&nbsp;
+  <img title="Redux Toolkit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" />&nbsp;
+  <img title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" />&nbsp;
+  <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" />&nbsp;
+  <img title="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" />&nbsp;
+  <img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" />&nbsp;
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />&nbsp;
+  <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />&nbsp;
+  <img title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" />&nbsp;
+  <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" />&nbsp;
+  <img title="Vite.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="30" />&nbsp;
+  <img title="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="30" />&nbsp;
+  <img title="Stripe" src="https://cdn.simpleicons.org/stripe/635BFF" width="30" />&nbsp;
+  <img title="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/336791" width="30" />&nbsp;
+  <img title="shadcn/ui" src="https://ui.shadcn.com/favicon.ico" width="30" />&nbsp;
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirShahin-7&show_icons=true&theme=radical&hide=prs&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirShahin-7&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- TypeScript for larger codebase confidence
+- Next.js advanced features like metadata and layout nesting
+- UI polish and performance optimization
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to freelance gigs, learning opportunities, or just a good tech convo!
+
+- 📧 amirshahin.1.512@gmail.com  
+- 📞 +20 110 044 5395  
+- 🌍 [amir-shahin.vercel.app](https://amir-shahin.vercel.app/)
+
+---
+
+<p align="center">"Build something today, even if it's small." 🚀</p>
