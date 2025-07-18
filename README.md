@@ -11,9 +11,7 @@
   <a href="https://www.linkedin.com/in/amir-shahin-7a1a80360/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Amir%20Shahin-0077B5?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/amirShahin-7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-amirShahin--7-333?style=flat-square&logo=github" />
-  </a>
+ 
 </p>
 
 ---
