@@ -28,7 +28,7 @@
 
 ## 👨‍💻 Projects I'm Proud Of
 
-### 🛒 [E-commerce Orders Management](https://amir-shahin.vercel.app/)
+### 🛒 [E-commerce Orders Management](https://trend-trove-opal.vercel.app/)
 A modern e-commerce platform built with Next.js, featuring:
 
 - Unified experience using **OneEntry**
