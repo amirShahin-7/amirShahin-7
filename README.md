@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Amir Shahin</h1>
 <p align="center">
-  A self-taught <strong>Front-End Developer</strong> from Cairo, Egypt 🇪🇬<br/>
+  <strong>Front-End Developer</strong> from Cairo, Egypt 🇪🇬<br/>
   Passionate about building clean, responsive UIs with React.js, Next.js, and a bit of flair ⚡
 </p>
 
