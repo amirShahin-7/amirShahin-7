@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://amir-shahin.vercel.app/" target="_blank">
+  <a href="https://amir-shahin-7.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Amir%20Shahin-blue?style=flat-square&logo=vercel" />
   </a>
   <a href="https://www.linkedin.com/in/amir-shahin-7a1a80360/" target="_blank">
@@ -97,7 +97,7 @@ I'm open to freelance gigs, learning opportunities, or just a good tech convo!
 
 - 📧 amirshahin.1.512@gmail.com  
 - 📞 +20 110 044 5395  
-- 🌍 [amir-shahin.vercel.app](https://amir-shahin.vercel.app/)
+- 🌍 [amir-shahin.vercel.app](https://amir-shahin-7.vercel.app/)
 
 ---
 
