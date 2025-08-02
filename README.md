@@ -77,7 +77,6 @@ A streaming platform using TMDB API built with a teammate on GitHub. Highlights:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirShahin-7&show_icons=true&theme=radical&hide=prs&count_private=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirShahin-7&layout=compact&theme=radical" width="45%" />
 </p>
 
