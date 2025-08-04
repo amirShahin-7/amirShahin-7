@@ -22,7 +22,7 @@
 - 💻 Mostly working with **React.js**, **Next.js**, **Redux Toolkit**, and **Tailwind CSS**.
 - 📡 Big fan of clean UI, responsive layouts, and smooth user experience.
 - 🎯 Currently improving my TypeScript skills and exploring Next.js Server Actions.
-- 🧠 Self-taught, with 13 years of experience in hospitality—so client communication? I'm good at it 😉
+- 🧠  I spent over 13 years working in the hospitality industry, which gave me a deep understanding of client communication, team collaboration, and problem-solving under pressure. 😉
 
 ---
 
