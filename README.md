@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Amir Shahin</h1>
 <p align="center">
   <strong>Front-End Developer</strong> from Cairo, Egypt 🇪🇬<br/>
-  Passionate about building clean, responsive UIs with React.js, Next.js, and a bit of flair ⚡
+  Passionate about building clean, responsive UIs with React, Next.js, and a bit of flair ⚡
 </p>
 
 <p align="center">
@@ -28,13 +28,13 @@
 
 ## 👨‍💻 Projects I'm Proud Of
 
-### 🛒 [E-commerce Orders Management](https://trend-trove-opal.vercel.app/)
-A modern e-commerce platform built with Next.js, featuring:
+### 🛒 [full-featured e-commerce web application designed](https://protein-pro-6ea7a.web.app/)
+A modern e-commerce platform built with React, featuring:
 
-- Unified experience using **OneEntry**
-- Dynamic **profile page** with real-time stats
-- **Order management system**
-- Stripe integration and full API-driven data handling
+- **Frontend:** React, Tailwind CSS, Material Tailwind
+- **Backend/Database:** Firebase (Firestore, Authentication)
+- **Routing:** React Router
+- **UI Enhancements:** SweetAlert2 for alerts and notifications
 
 Tech Used: `Next.js`, `React.js`, `Tailwind CSS`, `Lucide Icons`, `OneEntry`, `shadcn`, `Stripe`, `API Integration`
 
@@ -96,7 +96,7 @@ I'm open to freelance gigs, learning opportunities, or just a good tech convo!
 
 - 📧 amirshahin.1.512@gmail.com  
 - 📞 +20 110 044 5395  
-- 🌍 [amir-shahin-7.vercel.app](https://amir-shahin-7.vercel.app/)
+- 🌍 [amir-shahin-7](https://amir-shahin-7.vercel.app/)
 
 ---
 
