@@ -96,7 +96,7 @@ I'm open to freelance gigs, learning opportunities, or just a good tech convo!
 
 - 📧 amirshahin.1.512@gmail.com  
 - 📞 +20 110 044 5395  
-- 🌍 [amir-shahin-7](https://amir-shahin-7.vercel.app/)
+- 🌍 [amir-shahin-7](https://amirshahin-7.vercel.app/)
 
 ---
 
